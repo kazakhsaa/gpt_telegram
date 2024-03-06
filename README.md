@@ -1,3 +1,3 @@
 # gpt_telegram
 
-Telegram bot link: t.me/ChatGPT_yesbol_bot
+[Telegram bot link](t.me/ChatGPT_yesbol_bot)
